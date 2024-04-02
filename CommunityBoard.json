@@ -1,0 +1,89 @@
+{
+  "FeaturedPlayer": {
+    "Id": 1,
+    "TitleOverride": "Featured Player",
+    "UrlOverride": ""
+  },
+  "FeaturedRoomGroup": {
+    "Name": "",
+    "FeaturedRooms": []
+  },
+  "CurrentAnnouncement": {
+    "Message": "",
+    "MoreInfoUrl": ""
+  },
+  "InstagramImages": [
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    },
+    {
+      "ImageName": "",
+      "ImageUrl": ""
+    }
+    
+  ],
+  "Videos": [
+    {
+      "BlobName": "",
+      "Title": "",
+      "Description": "",
+      "ThumbnailBlobName": "",
+      "SourceUrl": ""
+    },
+    {
+      "BlobName": "",
+      "Title": "",
+      "Description": "",
+      "ThumbnailBlobName": "",
+      "SourceUrl": ""
+    },
+    {
+      "BlobName": "",
+      "Title": "",
+      "Description": "",
+      "ThumbnailBlobName": "",
+      "SourceUrl": ""
+    }
+  ]
+}
